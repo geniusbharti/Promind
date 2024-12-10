@@ -1,5 +1,6 @@
 {
   "name": "promind_game",
+  "homepage": "https://geniusbharti.github.io/Promind/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +10,6 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "https://geniusbharti.github.io/Promind/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
