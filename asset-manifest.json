@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Promind/static/css/main.3d4bc91f.css",
-    "main.js": "/Promind/static/js/main.4dbd0cc8.js",
-    "static/js/488.cde90d5c.chunk.js": "/Promind/static/js/488.cde90d5c.chunk.js",
-    "index.html": "/Promind/index.html",
-    "main.3d4bc91f.css.map": "/Promind/static/css/main.3d4bc91f.css.map",
-    "main.4dbd0cc8.js.map": "/Promind/static/js/main.4dbd0cc8.js.map",
-    "488.cde90d5c.chunk.js.map": "/Promind/static/js/488.cde90d5c.chunk.js.map"
+    "main.css": "/Promind/Promind/promind_game/static/css/main.3d4bc91f.css",
+    "main.js": "/Promind/Promind/promind_game/static/js/main.20346bd8.js",
+    "static/js/488.cde90d5c.chunk.js": "/Promind/Promind/promind_game/static/js/488.cde90d5c.chunk.js",
+    "index.html": "/Promind/Promind/promind_game/index.html",
+    "main.3d4bc91f.css.map": "/Promind/Promind/promind_game/static/css/main.3d4bc91f.css.map",
+    "main.20346bd8.js.map": "/Promind/Promind/promind_game/static/js/main.20346bd8.js.map",
+    "488.cde90d5c.chunk.js.map": "/Promind/Promind/promind_game/static/js/488.cde90d5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d4bc91f.css",
-    "static/js/main.4dbd0cc8.js"
+    "static/js/main.20346bd8.js"
   ]
 }
