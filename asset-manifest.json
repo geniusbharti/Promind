@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Promind/static/css/main.3d4bc91f.css",
-    "main.js": "/Promind/static/js/main.29c1f87b.js",
+    "main.js": "/Promind/static/js/main.b2e56470.js",
     "static/js/488.cde90d5c.chunk.js": "/Promind/static/js/488.cde90d5c.chunk.js",
     "index.html": "/Promind/index.html",
     "main.3d4bc91f.css.map": "/Promind/static/css/main.3d4bc91f.css.map",
-    "main.29c1f87b.js.map": "/Promind/static/js/main.29c1f87b.js.map",
+    "main.b2e56470.js.map": "/Promind/static/js/main.b2e56470.js.map",
     "488.cde90d5c.chunk.js.map": "/Promind/static/js/488.cde90d5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d4bc91f.css",
-    "static/js/main.29c1f87b.js"
+    "static/js/main.b2e56470.js"
   ]
 }
